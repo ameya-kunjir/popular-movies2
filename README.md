@@ -4,14 +4,14 @@ Project Description: added additional functionality to the android application b
 
 ##Concepts Implemented:
 
-Implemented Content Providers for application so that it can share data with other applications
-Use of SQLite Database for storing data fetched from internet
-Use of Retrofit library as REST client
-Use of RecyclerView instead of GridView.
-Use of ContentLoaders and ContentResolvers for efficient data loading
-Adapting phone UI to Tablet UI using material design principles
-Use of fragments while building Tablet UI
-Implemented Sync Adapters for fetching data from server at periodic time
+- Implemented Content Providers for application so that it can share data with other applications
+- Use of SQLite Database for storing data fetched from internet
+- Use of Retrofit library as REST client
+- Use of RecyclerView instead of GridView.
+- Use of ContentLoaders and ContentResolvers for efficient data loading
+- Adapting phone UI to Tablet UI using material design principles
+- Use of fragments while building Tablet UI
+- Implemented Sync Adapters for fetching data from server at periodic time
 
 ## Installation
 1. In Github repository click the "Clone or download" button of the project

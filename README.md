@@ -2,7 +2,7 @@
 
 Project Description: added additional functionality to the android application built in Stage 1 so that it can look and feels natural to latest Android operating system.
 
-##Concepts Implemented:
+## Concepts Implemented:
 
 - Implemented Content Providers for application so that it can share data with other applications
 - Use of SQLite Database for storing data fetched from internet
